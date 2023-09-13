@@ -5,7 +5,12 @@
 # Session Data files
 .RData
 .RDataTmp
-
+Helo_Trunk_SVL_box.png
+Helo_Trunk_SVL_Scatter.png
+Heloderma_morph_data_clean.csv
+Helo_HW_SVL_Scatter.png
+5660Exercise2.Rmd
+5660Exercise2.Rproj
 # User-specific files
 .Ruserdata
 
